@@ -6,3 +6,5 @@
 
 📫 How to reach me: https://www.godblessumukoro.me/
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umukoroG&repo=umukoroG)
+
