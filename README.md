@@ -1,8 +1,10 @@
-🔭 I’m currently working on web applications
+**Hi, Welcome to my GitHub**
 
-🌱 I’m currently learning machine learning
+🔭 I’m currently working on web applications.
 
-👯 I’m looking to collaborate on building projects
+🌱 I’m currently learning machine learning.
+
+👯 I’m looking to collaborate on building projects.
 
 📫 How to reach me: https://www.godblessumukoro.me/
 
