@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate on building projects.
 
-📫 How to reach me: https://www.godblessumukoro.me/
+📫 How to reach me: https://www.godblessumukoro.me/ | godbless.umukoro@yahoo.com
 
 
